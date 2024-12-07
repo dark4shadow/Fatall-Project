@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Synapse X",
+      "description": "A powerful and reliable script executor.",
+      "image": "executors/synapse-x.jpg",
+      "url": "https://x.synapse.to/"
+    },
+    {
+      "name": "KRNL",
+      "description": "A free executor with many advanced features.",
+      "image": "executors/krnl.jpg",
+      "url": "https://krnl.place/"
+    },
+    {
+      "name": "JJSploit",
+      "description": "An easy-to-use executor for beginners.",
+      "image": "executors/jjsploit.jpg",
+      "url": "https://wearedevs.net/d/JJSploit"
+    }
+  ]
+  

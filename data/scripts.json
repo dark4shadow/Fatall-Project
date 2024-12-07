@@ -1,0 +1,13 @@
+[
+    {
+      "name": "Example Script",
+      "description": "A sample script for demonstration purposes.",
+      "url": "scripts/example-script.lua"
+    },
+    {
+      "name": "Game Enhancer",
+      "description": "Enhance your gameplay with this awesome script!",
+      "url": "scripts/game-enhancer.lua"
+    }
+  ]
+  
